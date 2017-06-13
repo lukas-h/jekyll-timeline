@@ -1,0 +1,27 @@
+---
+title: Composers
+timezone: Europe/Berlin
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  steps:
+    title: Steps
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: steps
+  values:
+    title: 
+    year: YEAR
+markdown: kramdown
+highlighter: rouge
+lsi: false
+description: 'your resume'
+baseurl: ''
+url: http://himsel.me
+color: '#f2f2f2'
