@@ -5,12 +5,12 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
   steps:
     title: Steps
     output: false
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: 'your resume'
-baseurl: '/jekyll-timeline'
+description: your resume
+baseurl: "/jekyll-timeline"
 url: http://himsel.me
-color: '#f2f2f2'
+color: "#f2f2f2"
