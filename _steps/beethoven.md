@@ -1,6 +1,7 @@
 ---
 title: Ludwig van Beethoven
-year: 1770
+date: 1770-12-15 00:00:00 -0700
+enddate: 1827-03-29 00:00:00 -0700
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/200px-Beethoven.jpg)

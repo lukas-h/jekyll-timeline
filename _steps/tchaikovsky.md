@@ -1,6 +1,7 @@
 ---
 title: Pyotr Ilyich Tchaikovsky
-year: 1840
+date: 1840-11-06 00:00:00 -0700
+enddate: 1893-11-06 00:00:00 -0700
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg/187px-Portr%C3%A4t_des_Komponisten_Pjotr_I._Tschaikowski_%281840-1893%29.jpg)

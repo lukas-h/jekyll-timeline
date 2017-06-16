@@ -1,6 +1,7 @@
 ---
 title: Frédéric Chopin
-year: 1810
+date: 1810-03-01 00:00:00 -0700
+enddate: 1849-10-17 00:00:00 -0700
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Frederic_Chopin_photo.jpeg/167px-Frederic_Chopin_photo.jpeg)

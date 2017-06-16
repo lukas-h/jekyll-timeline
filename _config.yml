@@ -17,7 +17,7 @@ defaults:
     type: steps
   values:
     title: 
-    year: YEAR
+    date: 2016-09-01 00:00:00 -0700
 markdown: kramdown
 highlighter: rouge
 lsi: false

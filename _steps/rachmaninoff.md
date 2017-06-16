@@ -1,6 +1,7 @@
 ---
 title: Sergei Rachmaninoff
-year: 1873
+date: 1873-04-01 00:00:00 -0700
+enddate: 1943-03-28 00:00:00 -0700
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sergei_Rachmaninoff_cph.3a40575.jpg/128px-Sergei_Rachmaninoff_cph.3a40575.jpg)

@@ -1,6 +1,7 @@
 ---
 title: Giuseppe Verdi
-year: 1813
+date: 1813-10-10 00:00:00 -0700
+enddate: 1901-01-27 00:00:00 -0700
 ---
 
 Giuseppe Fortunino Francesco Verdi was an Italian opera composer.
