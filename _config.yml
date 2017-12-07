@@ -22,6 +22,6 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 description: Django in Busan Timeline
-baseurl: "/djangobusan.github.io"
+baseurl: "/"
 url: http://djangobusan.github.io
 color: "#f2f2f2"
