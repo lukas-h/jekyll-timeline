@@ -1,6 +1,6 @@
 ---
-title: Composers
-timezone: Europe/Berlin
+title: Django in Busan
+timezone: Asia/Seoul
 collections:
   posts:
     title: Posts
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
-baseurl: "/jekyll-timeline"
-url: http://himsel.me
+description: Django in Busan Timeline
+baseurl: "/"
+url: http://djangobusan.github.io
 color: "#f2f2f2"
