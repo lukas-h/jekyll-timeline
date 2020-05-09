@@ -4,7 +4,7 @@
 
 Visualize time structured data with this simple jekyll-template.  
 This Jekyll site is perfect for your résumé or other timelines.
-## [HERE](http://himsel.me/jekyll-timeline/) is a demo
+## you can find a demo [HERE](https://lukas-h.github.io/jekyll-timeline/)
 ## screenshots
 ![SCREENSHOT RÉSUMÉ](screenshot.png)
 ![SCREENSHOT COMPOSERS](screenshot2.png)
