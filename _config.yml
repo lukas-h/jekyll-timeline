@@ -1,5 +1,5 @@
 ---
-title: Composers
+title: Work history
 timezone: Europe/Berlin
 collections:
   posts:
@@ -23,5 +23,5 @@ highlighter: rouge
 lsi: false
 description: your resume
 baseurl: "/jekyll-timeline"
-url: http://himsel.me
+url: http://anaka.github.io
 color: "#f2f2f2"
